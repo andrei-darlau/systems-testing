@@ -1,0 +1,6 @@
+{
+  "include": ["bookstore"],
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.11"
+}
